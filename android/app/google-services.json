@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342133413366",
+    "project_id": "fasterapp-e9821",
+    "storage_bucket": "fasterapp-e9821.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342133413366:android:ab6564cd906bc9585da3d7",
+        "android_client_info": {
+          "package_name": "com.example.faster_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGECSqJTBlssfelz1JfIftYBRQj9e3eo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
